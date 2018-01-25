@@ -13,3 +13,5 @@ Requires Python 3
 ```sh
 $ python parse_english.py ex/english.srt parsed_english.srt
 ```
+
+TODO: Adding test cases
